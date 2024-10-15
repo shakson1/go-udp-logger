@@ -77,8 +77,6 @@ This project is free to use. No licensing restrictions apply.
 
 ## Owner
 
-## Owner
-
 - **Email**: shakokakhadze@gmail.com
 - **LinkedIn**: [Shalva Kakhadze](https://www.linkedin.com/in/shalva-kakhadze-966234193/)
 - **GitHub**: [shakson1](https://github.com/shakson1)
