@@ -19,7 +19,7 @@ A simple UDP logger application written in Go that listens for incoming UDP mess
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/go-udp-logger.git
+   git clone https://github.com/shakson1/go-udp-logger.git
    cd go-udp-logger
    ```
 
